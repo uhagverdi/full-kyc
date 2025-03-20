@@ -5,3 +5,5 @@ pytesseract
 opencv-python-headless  # Use headless version for Streamlit Cloud
 matplotlib
 pillow
+fuzzywuzzy
+python-Levenshtein  # Required for fuzzywuzzy to work properly
