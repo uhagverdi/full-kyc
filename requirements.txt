@@ -7,3 +7,4 @@ matplotlib
 pillow
 fuzzywuzzy
 python-Levenshtein  # Required for fuzzywuzzy to work properly
+sqlalchemy
